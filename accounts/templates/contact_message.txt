@@ -1,0 +1,23 @@
+You received a message from inquiry from website form:
+
+first name:{{first_name}}
+
+last name:{{last_name}}
+
+email:{{email}}
+
+phone number :{{phone_number}}
+
+they have sent this one as message:{{message}}
+
+usa:{{usa}}
+
+canada:{{canada}}
+
+australia:{{australia}}
+
+united kingdom:{{united_kingdom}}
+
+
+
+
